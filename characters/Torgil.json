@@ -1,0 +1,14 @@
+{
+  "name": "Torgil",
+  "class": "Warrior",
+  "max_hp": 100,
+  "hp": 100,
+  "xp": 50,
+  "traits": [
+    "Clumsy",
+    "Stubborn",
+    "Violent"
+  ],
+  "wins": 1,
+  "losses": 0
+}

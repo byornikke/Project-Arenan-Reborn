@@ -1,0 +1,10 @@
+{
+  "name": "Xahuurn",
+  "class": "Warrior",
+  "max_hp": 100,
+  "hp": 100,
+  "xp": 200,
+  "traits": [],
+  "wins": 3,
+  "losses": 1
+}

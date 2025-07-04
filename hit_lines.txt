@@ -1,0 +1,365 @@
+[weak]
+{attacker}'s clumsy strike barely brushes {defender}'s armor.
+
+In {environment}, {attacker}'s attack glances off {defender} without much impact.
+
+{attacker} lands a hit, but {defender} barely flinches.
+
+A flimsy swing – {attacker}'s weapon taps {defender} harmlessly.
+
+{attacker} attacks, but the blow is soft and easily absorbed by {defender}.
+
+{defender} shrugs off the weak strike from {attacker}.
+
+{attacker} swings, but it’s little more than a warning tap.
+
+In {environment}, {attacker}'s effort barely scuffs {defender}'s gear.
+
+{attacker}'s weapon connects, but without enough force to matter.
+
+A tired lunge – {attacker} manages only to graze {defender}.
+
+{attacker}'s firebolt fizzles against {defender}, leaving only a scorch mark.
+
+A low hiss – {attacker}'s frost shard barely clings to {defender}'s armor.
+
+{attacker} releases a weak arcane pulse that sizzles out before impact.
+
+In {environment}, {attacker}'s arrow glances off {defender}'s shoulder pad.
+
+A limp toss – {attacker}'s throwing spear hits but does little damage.
+
+{defender} brushes off the flicker of flame hurled by {attacker}.
+
+{attacker} looses a poorly aimed bolt that bounces off {defender}'s gear.
+
+{attacker}'s icy breath barely chills {defender}'s skin.
+
+{attacker}'s spell misfires, sending a flicker of light past {defender}.
+
+A harmless burst – {attacker}'s magic spark fades midair before reaching {defender}.
+
+{attacker} casts a mighty spell… that tickles {defender}.
+
+{defender} blinks. “Was that... wind?”
+
+{attacker} fires, but it’s more of a suggestion than an attack.
+
+A puff of frost escapes {attacker}’s hands. {defender} shivers – from laughter.
+
+{attacker} throws a spear like it’s a love letter.
+
+{defender} checks their armor. Nope, still intact.
+
+{attacker} chants a spell that even the wind ignores.
+
+{defender} yawns as {attacker}'s arrow grazes their ego.
+
+{attacker} hurls a firebolt that could barely light a birthday candle.
+
+{attacker} tried... and that’s the nicest thing we can say.
+
+[mediocre]
+{attacker} lands a steady hit on {defender}.
+
+In {environment}, {attacker}'s strike makes solid contact.
+
+{defender} staggers slightly as {attacker}'s blow connects.
+
+{attacker} delivers a well-placed but average hit.
+
+A solid strike – {attacker} forces {defender} back a step.
+
+{attacker}'s attack lands cleanly on {defender}'s side.
+
+In {environment}, {attacker} scores a decent hit on {defender}.
+
+{attacker} slashes across {defender}, drawing some effort from both.
+
+A competent strike – {defender} reacts, but stays on their feet.
+
+{attacker} drives a respectable blow into {defender}.
+
+A glowing arrow from {attacker} sinks into {defender}'s side with a thud.
+
+{attacker} casts a frost spike that lodges shallowly in {defender}'s leg.
+
+In {environment}, {attacker}'s fireblast scorches {defender}'s arm.
+
+{attacker} hurls a throwing spear that sticks into {defender}'s shoulder.
+
+{defender} stumbles as {attacker}'s arcane bolt slams into their chest.
+
+{attacker} lands a clean shot with their crossbow, forcing {defender} to take cover.
+
+A focused spell – {attacker}'s magic crackles as it strikes {defender}'s torso.
+
+{attacker}'s icy shard cuts through the air, leaving a cold burn on {defender}.
+
+{attacker} releases an enchanted arrow that pulses briefly as it strikes {defender}.
+
+A burst of fire from {attacker} licks across {defender}'s armor, searing the surface.
+
+{attacker} lands a hit! Somewhere between “meh” and “ow.”
+
+{defender} grunts, mostly out of annoyance.
+
+A decent zap from {attacker} – mildly inconvenient.
+
+{attacker}'s shot connects. Nobody's impressed, but hey – it landed.
+
+{attacker} throws a frost shard that says, “Notice me, senpai!”
+
+{attacker}'s fireball singes {defender}'s cape. Fashion emergency.
+
+{defender} stumbles, mutters something about amateurs.
+
+A polite arcane tap from {attacker} leaves {defender} slightly offended.
+
+{attacker}'s spear finds its mark – just not a vital one.
+
+A magical slap in the face. Technically still a hit.
+
+[strong]
+{attacker} slams into {defender} with force that rattles their stance.
+
+A fierce strike – {attacker}'s weapon cuts deep into {defender}.
+
+In {environment}, {attacker} delivers a heavy blow that shakes {defender}.
+
+{defender} winces as {attacker}'s powerful hit lands squarely.
+
+{attacker} drives a crushing strike into {defender}'s side.
+
+{attacker}'s attack explodes with energy, pushing {defender} back.
+
+A brutal impact – {defender} struggles to recover from the hit.
+
+{attacker}'s weapon slams down with punishing force.
+
+In {environment}, {attacker} breaks through {defender}'s guard with a roaring strike.
+
+{attacker}'s blow lands hard, echoing through the chaos of battle.
+
+{attacker}'s fireball erupts on impact, engulfing {defender} in flames.
+
+A frozen lance from {attacker} slams into {defender}, locking their limb in ice.
+
+{attacker}'s arcane blast knocks {defender} backward with raw force.
+
+In {environment}, {attacker} looses a heavy arrow that punches through {defender}'s guard.
+
+{attacker}'s throwing spear spins violently and digs deep into {defender}'s side.
+
+{attacker} channels power into a searing flame that scorches across {defender}'s chest.
+
+A surge of energy – {attacker}'s magic blast hammers {defender} off balance.
+
+{defender} reels as {attacker}'s enchanted bolt explodes with crackling energy.
+
+A heavy crossbow bolt from {attacker} thuds into {defender}'s ribcage.
+
+{attacker}'s frost magic spreads across {defender}, leaving skin pale and brittle.
+
+{attacker}'s arrow crashes in like rent day – unavoidable and painful.
+
+{attacker} hurls a fireball with the fury of a missed coffee.
+
+{defender} learns that frostbite isn't just a metaphor.
+
+Boom – {attacker} introduces {defender} to physics via impact.
+
+{attacker} throws a spear that speaks fluent pain.
+
+{defender} takes the hit and briefly considers a career change.
+
+{attacker}'s arcane blast makes {defender} rethink their life choices.
+
+A crossbow bolt to the ribs – brought to you by {attacker}'s bad mood.
+
+That hit wasn't just strong. It was passive-aggressive.
+
+{attacker}'s spell hits so hard it registers on another plane of existence.
+
+[deadly]
+A devastating strike – {attacker} cuts straight through {defender}'s defense.
+
+{attacker} lands a vicious blow that leaves {defender} gasping.
+
+In {environment}, {attacker} delivers a hit that nearly drops {defender}.
+
+{defender} cries out as {attacker} crushes them with overwhelming force.
+
+A brutal finish – {attacker}'s weapon tears into {defender}.
+
+{attacker} attacks with lethal intent, rocking {defender} to the core.
+
+{attacker}'s strike pierces deep, leaving {defender} barely standing.
+
+In {environment}, {attacker} unleashes fury upon {defender}.
+
+{attacker}'s assault overwhelms {defender}, leaving lasting damage.
+
+One clean strike – {attacker} nearly ends the fight with a single blow.
+
+{attacker}'s inferno wave crashes into {defender}, leaving them screaming in flame.
+
+{attacker} unleashes a storm of arcane force that lifts and slams {defender} to the ground.
+
+A freezing blast from {attacker} encases part of {defender} in jagged ice.
+
+{attacker}'s crossbow bolt pierces through {defender}, pinning them briefly in place.
+
+In {environment}, {attacker} rains fire down on {defender}, who writhes in pain.
+
+{attacker}'s spear strikes true, driving deep through {defender}'s abdomen.
+
+{defender} shrieks as {attacker}'s lightning-charged spell rips through their core.
+
+A deadly barrage – {attacker} fires three arrows, two landing with brutal precision.
+
+{attacker}'s arcane vortex implodes near {defender}, throwing them into a wall.
+
+{attacker} launches a searing beam of fire that chars {defender}'s flesh.
+
+{attacker} drops {defender} like a bad WiFi signal.
+
+That fireball had commitment issues – it burned everything.
+
+{attacker}'s arcane spell hit harder than Monday.
+
+{defender} freezes in place – like a sad popsicle of doom.
+
+{attacker} lands the kind of hit you don't walk away from.
+
+Boom. Headshot. {attacker} doesn’t miss when it matters.
+
+{defender}'s soul filed for emergency vacation.
+
+{attacker} hurls a magical “nope” straight into {defender}'s chest.
+
+One second {defender} was there. The next – dramatic exit.
+
+{attacker} turns {defender} into a cautionary tale.
+
+[miss]
+{attacker} swings too wide and misses {defender} completely!
+
+In {environment}, {attacker}'s strike slices through empty air.
+
+{attacker} lunges forward, but {defender} evades with ease.
+
+{defender} ducks just in time, and {attacker}'s attack whiffs.
+
+A mistimed strike – {attacker} hits nothing but wind.
+
+{attacker}'s weapon crashes down beside {defender}, missing by inches.
+
+{attacker} overcommits, giving {defender} an easy dodge.
+
+In {environment}, {attacker}'s attack is off balance and wide.
+
+{defender} sidesteps, leaving {attacker} swinging at shadows.
+
+A desperate move – {attacker} misses as {defender} slips away.
+
+{attacker} casts a fireball too early – it bursts harmlessly in the air.
+
+{attacker}'s frost spike whistles past {defender} and shatters on a rock.
+
+A shot in haste – {attacker}'s arrow thunks into a tree beside {defender}.
+
+{attacker}'s arcane beam veers off course, hitting nothing at all.
+
+{attacker}'s crossbow misfires, the bolt tumbling to the ground.
+
+{attacker} throws a spear, but {defender} sidesteps with ease.
+
+{defender} ducks just in time as {attacker}'s flame lashes the air above.
+
+{attacker} focuses too long – their magic fizzles out before release.
+
+A wild flick – {attacker}'s spell arcs wide of {defender}.
+
+{attacker} fires, but {defender}'s quick movement makes it a clean miss.
+
+{attacker} casts a fireball... straight into a bush. The bush dies.
+
+{defender} sidesteps like a professional dance instructor.
+
+{attacker}'s arrow flies past {defender} and retires quietly in a tree.
+
+Whoosh! {attacker}'s spell impresses nobody.
+
+{attacker} shouts “Take this!” and misses. Embarrassing.
+
+{defender} waves thanks as the bolt zips by.
+
+{attacker}'s throw was bold, brave, and... bad.
+
+In {environment}, {attacker}'s aim hits everything but the target.
+
+{attacker} flings magic into the void. The void flings it back.
+
+{attacker} tried to impress. {defender} remains thoroughly unimpressed.
+
+[death]
+{attacker} ends it – {defender} falls motionless to the ground.
+
+One final strike from {attacker}, and {defender} is no more.
+
+{defender} crumples as {attacker} delivers the fatal blow.
+
+The fight is over – {attacker} stands as {defender} lies broken.
+
+In {environment}, {attacker}'s killing strike brings {defender} down.
+
+{defender} gasps one last breath before collapsing under {attacker}'s blade.
+
+{attacker} lands a perfect strike – {defender}'s body falls limp.
+
+The final moment – {attacker}'s blow silences {defender} for good.
+
+{attacker} finishes {defender} with a decisive, merciless attack.
+
+With a roar, {attacker} ends the battle as {defender} falls for the last time.
+
+{attacker}'s final fireblast consumes {defender}, leaving only smoldering remains.
+
+{attacker} fires a crossbow bolt straight through {defender}'s heart – they drop instantly.
+
+{attacker}'s arcane storm erupts around {defender}, ending their life in a burst of energy.
+
+{defender} freezes mid-motion as {attacker}'s frost magic solidifies their body.
+
+A scream echoes through {environment} as {attacker}'s spear pierces {defender}'s throat.
+
+{attacker} ends the battle with a blinding bolt of arcane force that blasts {defender} away.
+
+A flaming arrow from {attacker} embeds in {defender}'s chest – moments later, they collapse.
+
+{attacker}'s spell overloads, erupting on contact and vaporizing {defender}.
+
+One last icy strike – {attacker}'s magic freezes {defender} from the inside out.
+
+With lethal precision, {attacker} fires – the shot hits true, and {defender} falls.
+
+{defender} drops like a plot twist no one saw coming.
+
+One fiery goodbye from {attacker} – {defender} won’t be back for the sequel.
+
+{attacker} evicts {defender} from the mortal realm.
+
+{attacker}'s spell deletes {defender} from the fight and possibly the lore.
+
+{defender} explodes so dramatically the sky blinks.
+
+{attacker} ends {defender} faster than you can say “nerf that class.”
+
+{defender} becomes an ex-combatant thanks to {attacker}'s flare for flair.
+
+One shot, one overkill. {attacker} doesn’t do subtle.
+
+{attacker} nukes {defender} so hard the loot despawns out of pity.
+
+{defender} exits stage left – via arcane fireball express.

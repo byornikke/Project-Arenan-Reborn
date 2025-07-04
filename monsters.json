@@ -1,0 +1,50 @@
+{
+  "Stabbe": {
+    "class": "Goblin",
+    "hp": 40,
+    "damage": [
+      4,
+      9
+    ],
+    "reaction": [
+      6,
+      12
+    ]
+  },
+  "Hammermon": {
+    "class": "Troll",
+    "hp": 120,
+    "damage": [
+      10,
+      18
+    ],
+    "reaction": [
+      2,
+      6
+    ]
+  },
+  "Bloodsucker": {
+    "class": "Vampire",
+    "hp": 90,
+    "damage": [
+      8,
+      20
+    ],
+    "reaction": [
+      4,
+      10
+    ]
+  },
+  "Firebreather": {
+    "class": "Dragon",
+    "hp": 200,
+    "damage": [
+      15,
+      30
+    ],
+    "reaction": [
+      1,
+      5
+    ]
+  }
+}
