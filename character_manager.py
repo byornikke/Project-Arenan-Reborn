@@ -16,7 +16,8 @@ def save_character(character):
         "xp": getattr(character, "xp", 0),
         "traits": getattr(character, "traits", []),
         "wins": getattr(character, "wins", 0),
-        "losses": getattr(character, "losses", 0)
+        "losses": getattr(character, "losses", 0),
+        "level": getattr(character, "level", 1)  # Default level to 1 if not present
     }
     with open(f"{SAVE_DIR}/{character.name}.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
@@ -38,6 +39,7 @@ def load_character(name):
     char.traits = data.get("traits", [])
     char.wins = data.get("wins", 0)
     char.losses = data.get("losses", 0)
+    char.level = data.get("level", 1)  # Default level to 1 if not present
     return char
 
 

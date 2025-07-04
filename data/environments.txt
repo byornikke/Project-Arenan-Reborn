@@ -1,0 +1,9 @@
+[environments]
+    
+"A bustling marketplace",
+"A dark alleyway",
+"A rocky mountain pass",
+"A foggy moor",
+"A sunlit meadow",
+"A shadowy cave",
+"A frozen tundra"

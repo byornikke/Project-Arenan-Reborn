@@ -1,10 +1,11 @@
 {
   "name": "Xahuurn",
-  "class": "Warrior",
-  "max_hp": 100,
-  "hp": 100,
-  "xp": 200,
-  "traits": [],
-  "wins": 3,
-  "losses": 1
+  "class": "Shaman",
+  "max_hp": 95,
+  "hp": 95,
+  "xp": 0,
+  "traits": ["Force of Nature", "Spirit Guide"],
+  "wins": 5,
+  "losses": 1,
+  "level": 2
 }

@@ -1,5 +1,5 @@
 {
-  "Stabbe": {
+  "Cutiepie": {
     "class": "Goblin",
     "hp": 40,
     "damage": [
@@ -9,7 +9,8 @@
     "reaction": [
       6,
       12
-    ]
+    ],
+    "level": 1
   },
   "Hammermon": {
     "class": "Troll",
@@ -21,9 +22,10 @@
     "reaction": [
       2,
       6
-    ]
+    ],
+    "level": 3
   },
-  "Bloodsucker": {
+  "Edward": {
     "class": "Vampire",
     "hp": 90,
     "damage": [
@@ -33,9 +35,10 @@
     "reaction": [
       4,
       10
-    ]
+    ],
+    "level": 2
   },
-  "Firebreather": {
+  "Alduin": {
     "class": "Dragon",
     "hp": 200,
     "damage": [
@@ -45,6 +48,7 @@
     "reaction": [
       1,
       5
-    ]
+    ],
+    "level": 5
   }
 }

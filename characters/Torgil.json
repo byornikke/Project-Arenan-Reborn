@@ -4,6 +4,7 @@
   "max_hp": 100,
   "hp": 100,
   "xp": 50,
+  "level": 1,
   "traits": [
     "Clumsy",
     "Stubborn",
